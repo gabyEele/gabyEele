@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @gabyEele
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-gabyEele/gabyEele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+oi,eu sou gabrielly
+estou interressada em trabalhar 
+atualmente estou aprendendo sobre financeramente 
+procuro colaborar em tudo possivel
+como chegar ate mim procure meu responsavel
+gabyEele/gabyEele é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
+Você pode clicar no link Visualizar para dar uma olhada nas suas alterações.
